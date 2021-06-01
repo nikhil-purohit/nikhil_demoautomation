@@ -3,7 +3,7 @@ package tp_test;
 import  org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class demo_test1 {
+public class demo_test3 {
 	
 	@Test
 	public void add()
@@ -16,10 +16,4 @@ public class demo_test1 {
 				
 	}
 
-	
-	public void print()
-	{
-		System.out.println("second commit");
-	}
-	
 }
