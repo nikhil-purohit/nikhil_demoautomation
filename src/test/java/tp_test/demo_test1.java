@@ -12,7 +12,7 @@ public class demo_test1 {
 		int a=1;
 		int b = 3 ; 
 	System.out.println(a+b);
-	 Assert.assertEquals(4,a+b);
+	 Assert.assertEquals(5,a+b);
 				
 	}
 
